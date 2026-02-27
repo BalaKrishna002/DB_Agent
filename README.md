@@ -1,0 +1,3 @@
+- Model Used: llama-3.1-8b-instant
+- Model Provider: Groq
+- Make sure to add api key by creating .env file with GROQ_API_KEY=your_api_key
